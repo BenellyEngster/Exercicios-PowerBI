@@ -1,13 +1,13 @@
 # Laboratórios Práticos: Análise Global de Vendas e Logística com Power BI
 
-# Sobre este repositório
+## Sobre este repositório
 Este repositório contém projetos práticos (Labs) desenvolvidos no Power BI. O objetivo destes exercícios foi aplicar técnicas de modelagem de dados, 
 construção de medidas com DAX e visualização de dados para resolver problemas de negócio focados no desempenho de vendas globais, rentabilidade e eficiência logística.
 
-# Lab 1: Dashboard Analítico de Vendas Globais
+## Lab 1: Dashboard Analítico de Vendas Globais
 Este primeiro painel tem como foco a visão macro das operações de retalho a nível global, permitindo explorar os volumes de faturação por categoria e região.
 
-# Principais Análises e Funcionalidades
+## Principais Análises e Funcionalidades
 
 Desempenho Global: Acompanhamento do Total de Vendas (12,64 Milhões) com segmentação dinâmica por ano, segmento de cliente e país.
 
@@ -20,7 +20,7 @@ Distribuição Geográfica: Mapeamento visual da média de vendas por país e an
 ## Lab 2: Análise de Margem de Lucro e Custos de Envio (Logística)
 O segundo laboratório aprofunda a análise financeira e operacional, focando-se na rentabilidade ao longo do tempo e no impacto dos modos de envio nos custos da empresa.
 
-# Principais Análises e Funcionalidades
+## Principais Análises e Funcionalidades
 
 Evolução da Rentabilidade: Análise granular da Média de Margem de Lucro ao longo do tempo (Ano, Trimestre, Mês e Dia), permitindo identificar picos e quebras de performance.
 
